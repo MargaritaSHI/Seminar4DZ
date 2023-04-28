@@ -1,0 +1,15 @@
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\Zdacha25.csproj.AssemblyReference.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\Zdacha25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\Zdacha25.AssemblyInfoInputs.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\Zdacha25.AssemblyInfo.cs
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\Zdacha25.csproj.CoreCompileInputs.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\bin\Debug\net7.0\Zdacha25.exe
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\bin\Debug\net7.0\Zdacha25.deps.json
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\bin\Debug\net7.0\Zdacha25.runtimeconfig.json
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\bin\Debug\net7.0\Zdacha25.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\bin\Debug\net7.0\Zdacha25.pdb
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\Zdacha25.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\refint\Zdacha25.dll
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\Zdacha25.pdb
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\Zdacha25.genruntimeconfig.cache
+C:\Users\diasi\OneDrive\Рабочий стол\Seminar4DZ\Zdacha25\obj\Debug\net7.0\ref\Zdacha25.dll
